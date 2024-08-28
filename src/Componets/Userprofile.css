@@ -1,0 +1,41 @@
+.Banner
+{
+height: 250px;
+background-image: url("https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+background-color: aqua; 
+object-fit: cover;
+margin: 20px;
+border-radius: 2rem;
+/* background-repeat: no-repeat; */
+
+}
+
+.profile{
+    height: 200px;
+    width: 200px;
+}
+
+.title{
+    padding: 10px;
+    font-weight: 600;
+}
+
+.post{
+
+    
+    display: flex;
+
+}
+.bio{
+
+}
+.posts{
+    background-color: darkgrey;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 2rem;
+}
+
+.posts h2{
+    padding-left: 5px;
+}
